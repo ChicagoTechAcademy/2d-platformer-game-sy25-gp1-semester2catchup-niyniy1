@@ -4,7 +4,9 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Trap
+  - trap
+  - healthpickup
+  - instaKill
   layers:
   - Default
   - TransparentFX
